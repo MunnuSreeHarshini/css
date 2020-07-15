@@ -1,0 +1,35 @@
+div{
+  border-color:#7f7f7f;
+  border-width:double;
+  border-style:solid;
+}
+h1{
+  color:rgb(255,0,100);
+}
+h3{
+  background-color:#E0FFFF;
+  color:rgba(100,0,255,0.5);
+}
+body{
+  background-color:#FFE4E1;
+}
+p{
+  color:red;
+}
+li a{
+  color:blue;
+}
+li a[href="http://www.w3schools.com"]
+{
+border-style:3px #089598; groove;
+}
+span{
+  background-color:pink;
+  color:black;
+}
+.one{
+  background-color:#FAFAD2;
+  border-color:#089598;
+  border-width:medium;
+  border-style:dashed;
+}
